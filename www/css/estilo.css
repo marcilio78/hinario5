@@ -1,0 +1,32 @@
+.ui-content{
+   margin: 0;
+    padding: 0;
+
+
+}
+
+
+.ui-navbar ul{
+display: inline;
+padding: 3px;
+}
+.ui-navbar ul li{
+
+    padding: 4px;
+
+}
+pre {
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 5.5px;
+    font-size: 0.9em;
+    color: rgb(51, 51, 51);
+    border-radius: 4px;
+    margin: 0 1px 0 1px;
+
+    line-height: 18px;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    border: 1px solid rgba(0, 0, 0, 0.14902);
+    background-color: rgb(245, 245, 245);
+}
